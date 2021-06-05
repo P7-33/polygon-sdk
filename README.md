@@ -1,7 +1,7 @@
 
 ![Banner](.github/banner.png)
 
-## Polygon SDK
+### Polygon SDK
 
 Polygon SDK is a modular and extensible framework for building Ethereum-compatible blockchain networks.
 
@@ -11,7 +11,7 @@ To find out more about Polygon, visit the [official website](https://polygon.tec
 
 WARNING: This is a work in progress so architectural changes may happen in the future. The code has not been audited yet, so please contact [Polygon team](mailto:contact@polygon.technology) if you would like to use it in production.
 
-## Documentation 📝
+### Documentation 📝
 
 If you'd like to learn more about the Polygon SDK, how it works and how you can use it for your project,
 please check out the **[Polygon SDK Documentation](https://sdk-docs.polygon.technology)**.
